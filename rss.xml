@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[E-max]]></title>
+        <description><![CDATA[E-max]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Jan 2016 11:32:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Finalmente the Grid attivo]]></title>
+            <description><![CDATA[<article><h1>Finalmente the Grid attivo</h1><p>Finalmente The Grid è attivo nella versione Beta</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c08fe8b22554f1a5e7c043d2a4147a9da3903d09.jpg"></article>]]></description>
+            <link>undefinedfinalmente-the-grid-attivo/index.html</link>
+            <guid isPermaLink="false">73981817-8f55-4e30-ad47-a0a8a06f5f13</guid>
+            <pubDate>Fri, 22 Jan 2016 11:32:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
