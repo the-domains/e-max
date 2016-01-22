@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[E-max]]></title>
         <description><![CDATA[E-max]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/e-max/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 11:32:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 11:42:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/e-max/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61998d80-5c13-4150-a000-d35b8ce02067.jpg">]]></description>
+            <link>https://thegrid.ai/e-max/3ba18245-e42e-4628-b34b-a7a355628876/index.html</link>
+            <guid isPermaLink="false">3ba18245-e42e-4628-b34b-a7a355628876</guid>
+            <pubDate>Fri, 22 Jan 2016 11:42:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finalmente the Grid attivo]]></title>
             <description><![CDATA[<article><h1>Finalmente the Grid attivo</h1><p>Finalmente The Grid è attivo nella versione Beta</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c08fe8b22554f1a5e7c043d2a4147a9da3903d09.jpg"></article>]]></description>
-            <link>undefinedfinalmente-the-grid-attivo/index.html</link>
+            <link>https://thegrid.ai/e-max/finalmente-the-grid-attivo/index.html</link>
             <guid isPermaLink="false">73981817-8f55-4e30-ad47-a0a8a06f5f13</guid>
             <pubDate>Fri, 22 Jan 2016 11:32:31 GMT</pubDate>
         </item>
