@@ -1,6 +1,6 @@
 name: E-max
 favicon: null
-layout_spectrum: 0.46298234281130135
+layout_spectrum: 0.88976
 typography_spectrum: 0.1417745603248477
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.6815063869580626
-  lightness: 0.1492494335398078
+  brandStrength: 0.625
+  lightness: 0.75
   saturation: 0.36611948092468083
-  rhythmicContrast: 0.141129961470142
+  rhythmicContrast: 0.25
 purpose: []
